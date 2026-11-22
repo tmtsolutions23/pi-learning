@@ -1,0 +1,3 @@
+[{"prompt": "Create hello_time.py that prints the current UTC time in ISO 8601 format, then run it with python."},
+ {"prompt": "No - every Python script you write for me must use argparse with a description, type hints, and an if __name__ == '__main__' guard. Fix hello_time.py and run it with --help."},
+ {"wait_reflect": 300}]

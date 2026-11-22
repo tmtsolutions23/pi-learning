@@ -1,0 +1,12 @@
+# your personal knowledge base (created from vault-template/ by setup)
+/vault/
+# third-party skills: fetched from their authors at pinned commits by tools/install_skills.py
+/sources/
+/skills/core/
+/skills/library/
+/skills/SOURCES.md
+# runtime
+*.log
+.pi-learning*
+__pycache__/
+node_modules/

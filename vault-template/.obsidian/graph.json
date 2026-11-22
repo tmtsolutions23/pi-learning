@@ -1,0 +1,21 @@
+{
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "colorGroups": [
+    { "query": "path:Projects", "color": { "a": 1, "rgb": 16750848 } },
+    { "query": "path:Sessions", "color": { "a": 1, "rgb": 10066329 } },
+    { "query": "path:Skills", "color": { "a": 1, "rgb": 3381759 } },
+    { "query": "path:Knowledge", "color": { "a": 1, "rgb": 6736998 } },
+    { "query": "path:Memory", "color": { "a": 1, "rgb": 16724838 } }
+  ],
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.1,
+  "lineSizeMultiplier": 1,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250
+}

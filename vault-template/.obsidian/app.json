@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "Archive/skills/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "alwaysUpdateLinks": true
+}

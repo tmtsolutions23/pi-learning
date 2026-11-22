@@ -1,0 +1,5 @@
+{
+  "skills": ["C:/path/to/pi-learning/skills/core", "C:/path/to/pi-learning/vault/Skills"],
+  "extensions": ["C:/path/to/pi-learning/extensions/pi-learning"],
+  "compaction": { "modelOverrides": { "inkling/inkling-2-mini": { "reserveTokens": 12288, "keepRecentTokens": 12000 } } }
+}

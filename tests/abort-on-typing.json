@@ -1,0 +1,4 @@
+[{"prompt": "Say hi."},
+ {"prompt": "No - never add punctuation to one-word answers. Say hi again."},
+ {"prompt": "Say bye."},
+ {"wait_reflect": 200}]
